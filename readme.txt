@@ -1,20 +1,27 @@
 ## Installation
 
-Before running the analysis code, make sure you have extracted the dataset files : netflix_reviews.zip.
+！Before running the analysis code, make sure you have extracted the dataset files : netflix_reviews.zip.
+
+！Before running the code, make sure you have installed all the required libraries in requirements.txt
 
 
-Before running the analysis code, make sure you have the following libraries installed:
 
-- pandas
-- collections
-- matplotlib
-- wordcloud
+## File Description
+
+netflix_reviews.csv is the dataset for this model construction.
+
+The Sentiment Analysis Model_TF-IDF.ipynb file contains all the sentiment analysis model codes for machine learning and deep learning models based on TF-IDF feature vectors mentioned in the paper.
+
+The Sentiment Analysis Model_Bert.ipynb file contains all the sentiment analysis model codes for machine learning and deep learning models based on Bert feature vectors mentioned in the paper.
+
+The Useffulness Score Model_TF-IDF.ipynb file contains all the usefulness score model codes for machine learning and deep learning models based on TF-IDF feature vectors mentioned in the paper.
+
+The Useffulness Score Model_Bert.ipynb file contains all the usefulness score model codes for machine learning and deep learning models based on Bert feature vectors mentioned in the paper.
 
 
-You can install these libraries using pip:
 
---pip install pandas matplotlib wordcloud
 
+##Record of project progress and plans
 
 Plan/ How to do/ Success criteria/ Deadline
 
