@@ -18,7 +18,7 @@ The Useffulness Score Model_TF-IDF.ipynb file contains all the usefulness score 
 
 The Useffulness Score Model_Bert.ipynb file contains all the usefulness score model codes for machine learning and deep learning models based on Bert feature vectors mentioned in the paper.
 
-
+TF-IDF Right and BERT Wrong.ipynb file contains all the code comparing the performance of TF-IDF's and BERT's models in sentiment analysis, and outputs comments where BERT is wrong but TF-IDF is right.
 
 
 ##Record of project progress and plans
