@@ -1,6 +1,10 @@
 
 
-The project studied the performance of various natural language processing and machine learning techniques in the tasks of sentiment analysis and usefulness scoring, including traditional TF-IDF and advanced BERT combined with logistic regression, random forest, XGBoost models, and LSTM deep learning models.
+This thesis studies the performance of various natural language processing and machine learning techniques in the tasks of sentiment analysis and usefulness scoring, including traditional TF-IDF and advanced BERT, respectively combined with logistic regression, random forest, XGBoost models, and LSTM deep learning models.
+
+Ultimately, the following goals are hoped to be achieved:
+1. Sentiment analysis model: This model predicts the sentiment of user comments based on a time series using non-overlapping comment data, which is trained and tested on a dataset split by date. By accurately identifying and analysing user sentiment, this model can help the Netflix platform better understand user viewing emotions and preferences, thereby improving the recommendation system and content optimisation strategies.
+ 2. Usability rating model: By modelling and training the number of ‘thumbs up’ in user comments, a usability rating model is constructed to assess the degree to which comments are helpful to other users. This model will identify the most valuable user feedback for the platform, improve the overall user experience, and optimise the content recommendation mechanism.
 
 
 
