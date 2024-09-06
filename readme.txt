@@ -1,3 +1,11 @@
+
+
+The project studied the performance of various natural language processing and machine learning techniques in the tasks of sentiment analysis and usefulness scoring, including traditional TF-IDF and advanced BERT combined with logistic regression, random forest, XGBoost models, and LSTM deep learning models.
+
+
+
+
+
 ## Installation
 
 ！Before running the analysis code, make sure you have extracted the dataset files : netflix_reviews.zip.
